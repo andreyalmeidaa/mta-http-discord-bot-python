@@ -89,3 +89,13 @@ As informações fornecidas serão salvas automaticamente no banco de dados SQLi
 Você pode adicionar o mesmo bot em vários servidores do Discord.
 
 É possível configurar múltiplas conexões HTTP (para diferentes servidores MTA) porque o bot suporta múltiplas guilds (servidores Discord).
+
+
+# 9. PRINTS/FOTOS
+![Screenshot_1](https://github.com/user-attachments/assets/44bde92e-fa2f-48eb-ba23-bd52a2ec32f7)
+![Screenshot_2](https://github.com/user-attachments/assets/53a9cf4d-a1b9-4b84-b89c-c02b3036f65a)
+![Screenshot_3](https://github.com/user-attachments/assets/2936e991-7826-4c10-b948-2c83fa2f9adb)
+![Screenshot_4](https://github.com/user-attachments/assets/46d81cfe-0bff-4d0f-b666-0889beece0db)
+
+
+
