@@ -1,0 +1,9 @@
+<meta>
+    <script src="client/main_c.lua" type="client" />
+
+    <script src="server/main_s.lua" type="server" />
+
+    <export function="enviarMensagemChat" type="server" http="true" />
+    <export function="listarMods" type="server" http="true" />
+    <export function="iniciarMod" type="server" http="true" />
+</meta>
