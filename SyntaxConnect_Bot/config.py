@@ -1,0 +1,4 @@
+DISCORD_TOKEN = ""
+PREFIXO_COMANDOS = "!"
+INTENTS = True
+PASSWORD = b'shuayBaybay'
