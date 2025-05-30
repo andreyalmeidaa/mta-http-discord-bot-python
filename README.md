@@ -10,3 +10,11 @@ Certifique-se de que o resource `API_MTA` esteja iniciado no seu servidor:
 
 ```bash
 start API_MTA
+
+## 🛠️ 2. Configure o servidor para permitir requisições HTTP
+
+```bash
+<httpserver>1</httpserver>
+<httpport>22005</httpport>
+<httpusername>apiuser</httpusername>
+<httppassword>apiuser</httppassword>
