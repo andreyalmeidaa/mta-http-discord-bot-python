@@ -95,7 +95,7 @@ Você pode adicionar o mesmo bot em vários servidores do Discord.
 ![Screenshot_1](https://github.com/user-attachments/assets/44bde92e-fa2f-48eb-ba23-bd52a2ec32f7)
 ![Screenshot_2](https://github.com/user-attachments/assets/53a9cf4d-a1b9-4b84-b89c-c02b3036f65a)
 ![Screenshot_3](https://github.com/user-attachments/assets/2936e991-7826-4c10-b948-2c83fa2f9adb)
-![Screenshot_4](https://github.com/user-attachments/assets/46d81cfe-0bff-4d0f-b666-0889beece0db)
+<img width="953" height="335" alt="Screenshot_1" src="https://github.com/user-attachments/assets/971dfd73-8c61-44ed-b160-4d69069d3726" />
 
 
 
